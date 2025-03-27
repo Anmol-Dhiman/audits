@@ -2,7 +2,7 @@
 
 ## Profile
 
-| [Code4rena](https://code4rena.com/@Sherlock__VARM) | [CodeHawks](https://profiles.cyfrin.io/u/sherlockvarm) |
+| [Code4rena](https://code4rena.com/@Sherlock__VARM) | [CodeHawks](https://profiles.cyfrin.io/u/sherlockvarm) | [Sherlock](https://audits.sherlock.xyz/watson/sherlockvarm) | [Cantina](https://cantina.xyz/u/sherlockVARM) |
 
 ## Competitive audits
 
