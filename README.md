@@ -1,8 +1,10 @@
 # Anmol's Protfolio
 
 ## Profile
-
-| [Code4rena](https://code4rena.com/@Sherlock__VARM) | [CodeHawks](https://profiles.cyfrin.io/u/sherlockvarm) | [Sherlock](https://audits.sherlock.xyz/watson/Sherlock_VARM) | [Cantina](https://cantina.xyz/u/sherlockVARM) |
+- [Code4rena](https://code4rena.com/@Sherlock__VARM) 
+- [CodeHawks](https://profiles.cyfrin.io/u/sherlockvarm) 
+- [Sherlock](https://audits.sherlock.xyz/watson/Sherlock_VARM) 
+- [Cantina](https://cantina.xyz/u/sherlockVARM) 
 
 ## Competitive audits
 
