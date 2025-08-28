@@ -25,6 +25,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
+- [What is Uniswap v4?](https://www.quillaudits.com/blog/smart-contract/what-is-uniswap-v4)
 - [EIP-7702 : A New Era in Account Abstraction](https://www.quillaudits.com/blog/smart-contract/eip7702-new-era-in-account-abstraction)
 
 ## Independent Blogs
