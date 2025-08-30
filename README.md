@@ -21,11 +21,12 @@
 ## My Work at [QuillAudits](https://quillaudits.com/)
 
 ### Hack Reports
+- [BetterBank Exploit: $5M Lost in Reward Hack](https://www.quillaudits.com/blog/hack-analysis/betterbank-exploit)
 - [How Odin.fun Lost 58.2 BTC in a $7M Liquidity Exploit](https://www.quillaudits.com/blog/hack-analysis/how-odinfun-lost-58-3BTC-to-worthless-liquidity)
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
-- [What is Uniswap v4?](https://www.quillaudits.com/blog/smart-contract/what-is-uniswap-v4)
+- [What is Uniswap v4? Technical Breakdown](https://www.quillaudits.com/blog/smart-contract/what-is-uniswap-v4)
 - [EIP-7702 : A New Era in Account Abstraction](https://www.quillaudits.com/blog/smart-contract/eip7702-new-era-in-account-abstraction)
 
 ## Independent Blogs
