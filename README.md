@@ -20,6 +20,9 @@
 
 ## My Work at [QuillAudits](https://quillaudits.com/)
 
+### Handbooks
+- [Uniswap v4 Technical Deep Dive](https://www.quillaudits.com/research/uniswap-development)
+
 ### Hack Reports
 - [Bunni V2 Exploit Drains $8.3M via Liquidity Flaw](https://www.quillaudits.com/blog/hack-analysis/bunni-v2-exploit)
 - [BetterBank Exploit: $5M Lost in Reward Hack](https://www.quillaudits.com/blog/hack-analysis/betterbank-exploit)
