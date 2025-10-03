@@ -24,6 +24,7 @@
 - [Uniswap v4 Technical Deep Dive](https://www.quillaudits.com/research/uniswap-development)
 
 ### Hack Reports
+- [Griffin AI Exploit: Admin EOA Compromise Explained](https://www.quillaudits.com/blog/hack-analysis/griffin-ai-exploit)
 - [New Gold Protocol Suffers $2M Flash Loan Breach](https://www.quillaudits.com/blog/hack-analysis/flash-loan-attack-on-gold-protocol)
 - [SwissBorg's $41M Exploit (Detailed Breakdown)](https://www.quillaudits.com/blog/hack-analysis/swissborg-exploit)
 - [Bunni V2 Exploit Drains $8.3M via Liquidity Flaw](https://www.quillaudits.com/blog/hack-analysis/bunni-v2-exploit)
