@@ -41,6 +41,10 @@
 - [What is Uniswap v4? Technical Breakdown](https://www.quillaudits.com/blog/smart-contract/what-is-uniswap-v4)
 - [EIP-7702 : A New Era in Account Abstraction](https://www.quillaudits.com/blog/smart-contract/eip7702-new-era-in-account-abstraction)
 
+## Talks
+- [Exploring Hooks and Driving Protocol Innovation](https://x.com/QuillAudits_AI/status/1966101920709235105)
+- [CRACCON Conf. Blockchain and Smart Contract Security](https://www.linkedin.com/posts/craccon_cybersecurity-infosec-web3-activity-7378715258124734464-OxdM)
+
 ## Independent Blogs
 
 - [Elliptic Curve Digital Signature Algorithm](https://sherlockvarm.hashnode.dev/elliptic-curve-digital-signature-algorithm)
