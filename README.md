@@ -23,7 +23,7 @@
 - [Uniswap v4 Technical Deep Dive](https://www.quillaudits.com/research/uniswap-development)
 
 ### Hack Reports
-
+- [ERC 7518 for Secure & Interoperable RWA Tokenization](https://www.quillaudits.com/blog/rwa/understanding-erc-7518)
 - [The Abracadabra Hack ($1.8M Logic Error)](https://www.quillaudits.com/blog/hack-analysis/abracadabra-hack-explained)
 - [Griffin AI Exploit: Admin EOA Compromise Explained](https://www.quillaudits.com/blog/hack-analysis/griffin-ai-exploit)
 - [New Gold Protocol Suffers $2M Flash Loan Breach](https://www.quillaudits.com/blog/hack-analysis/flash-loan-attack-on-gold-protocol)
