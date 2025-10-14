@@ -23,7 +23,7 @@
 - [Uniswap v4 Technical Deep Dive](https://www.quillaudits.com/research/uniswap-development)
 
 ### Hack Reports
-- [ERC 7518 for Secure & Interoperable RWA Tokenization](https://www.quillaudits.com/blog/rwa/understanding-erc-7518)
+
 - [The Abracadabra Hack ($1.8M Logic Error)](https://www.quillaudits.com/blog/hack-analysis/abracadabra-hack-explained)
 - [Griffin AI Exploit: Admin EOA Compromise Explained](https://www.quillaudits.com/blog/hack-analysis/griffin-ai-exploit)
 - [New Gold Protocol Suffers $2M Flash Loan Breach](https://www.quillaudits.com/blog/hack-analysis/flash-loan-attack-on-gold-protocol)
@@ -34,7 +34,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
-
+- [ERC 7518 for Secure & Interoperable RWA Tokenization](https://www.quillaudits.com/blog/rwa/understanding-erc-7518)
 - [ERC-3643 Explained : T-REX Standard in DeFi](https://www.quillaudits.com/blog/smart-contract/erc-3643-explained)
 - [ERC-8004: Infrastructure for Autonomous AI Agents](https://www.quillaudits.com/blog/smart-contract/erc-8004)
 - [Top DEX Risks & How Uniswap Addresses Them](https://www.quillaudits.com/blog/smart-contract/how-uniswap-tackles-dex-risks)
