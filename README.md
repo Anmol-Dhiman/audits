@@ -1,4 +1,4 @@
-# Anmol's Protfolio
+# Anmol's Portfolio
 
 ## Profiles
 
