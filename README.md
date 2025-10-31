@@ -34,6 +34,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
+- [A Guide to Perpetual DEX Architecture & Security](https://www.quillaudits.com/blog/smart-contract/perp-dex-architecture-and-security)
 - [A Comprehensive Technical Guide to Real Estate Tokenization](https://www.quillaudits.com/blog/rwa/technical-guide-to-real-estate-tokenization)
 - [ERC 7518 for Secure & Interoperable RWA Tokenization](https://www.quillaudits.com/blog/rwa/understanding-erc-7518)
 - [ERC-3643 Explained : T-REX Standard in DeFi](https://www.quillaudits.com/blog/smart-contract/erc-3643-explained)
