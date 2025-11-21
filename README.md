@@ -24,6 +24,7 @@
 
 ### Hack Reports
 
+- [The Balancer Hack 2025 (Explained)](https://www.quillaudits.com/blog/hack-analysis/the-balancer-hack)
 - [The Abracadabra Hack ($1.8M Logic Error)](https://www.quillaudits.com/blog/hack-analysis/abracadabra-hack-explained)
 - [Griffin AI Exploit: Admin EOA Compromise Explained](https://www.quillaudits.com/blog/hack-analysis/griffin-ai-exploit)
 - [New Gold Protocol Suffers $2M Flash Loan Breach](https://www.quillaudits.com/blog/hack-analysis/flash-loan-attack-on-gold-protocol)
@@ -34,6 +35,8 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
+
+- [ERC-7943: Universal RWA Standard Explained](https://www.quillaudits.com/blog/rwa/erc-7943-explained)
 - [A Guide to Perpetual DEX Architecture & Security](https://www.quillaudits.com/blog/smart-contract/perp-dex-architecture-and-security)
 - [A Comprehensive Technical Guide to Real Estate Tokenization](https://www.quillaudits.com/blog/rwa/technical-guide-to-real-estate-tokenization)
 - [ERC 7518 for Secure & Interoperable RWA Tokenization](https://www.quillaudits.com/blog/rwa/understanding-erc-7518)
@@ -44,6 +47,7 @@
 - [EIP-7702 : A New Era in Account Abstraction](https://www.quillaudits.com/blog/smart-contract/eip7702-new-era-in-account-abstraction)
 
 ## Talks
+
 - [Exploring Hooks and Driving Protocol Innovation](https://x.com/QuillAudits_AI/status/1966101920709235105)
 - [CRACCON Conf. Blockchain and Smart Contract Security](https://www.linkedin.com/posts/craccon_cybersecurity-infosec-web3-activity-7378715258124734464-OxdM)
 
