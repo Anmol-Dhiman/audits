@@ -21,6 +21,7 @@
 ### Handbooks
 
 - [Uniswap v4 Technical Deep Dive](https://www.quillaudits.com/research/uniswap-development)
+- [RWA Handbook](https://www.quillaudits.com/research/rwa-development)
 
 ### Hack Reports
 
@@ -36,6 +37,7 @@
 
 ### Blog Posts
 
+- [RWA Settlement & Redemption (A Clear Guide)](https://www.quillaudits.com/blog/rwa/rwa-settlement-and-redemption)
 - [ERC-7943: Universal RWA Standard Explained](https://www.quillaudits.com/blog/rwa/erc-7943-explained)
 - [A Guide to Perpetual DEX Architecture & Security](https://www.quillaudits.com/blog/smart-contract/perp-dex-architecture-and-security)
 - [A Comprehensive Technical Guide to Real Estate Tokenization](https://www.quillaudits.com/blog/rwa/technical-guide-to-real-estate-tokenization)
