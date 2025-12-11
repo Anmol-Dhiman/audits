@@ -24,7 +24,7 @@
 - [RWA Handbook](https://www.quillaudits.com/research/rwa-development)
 
 ### Hack Reports
-
+- [Yearn's $9M Invariant Solver Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/yearn-9m-exploit)
 - [The Balancer Hack 2025 (Explained)](https://www.quillaudits.com/blog/hack-analysis/the-balancer-hack)
 - [The Abracadabra Hack ($1.8M Logic Error)](https://www.quillaudits.com/blog/hack-analysis/abracadabra-hack-explained)
 - [Griffin AI Exploit: Admin EOA Compromise Explained](https://www.quillaudits.com/blog/hack-analysis/griffin-ai-exploit)
