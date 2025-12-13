@@ -36,7 +36,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
-
+- [Cross-Chain RWA Architecture (Explained)](https://www.quillaudits.com/blog/rwa/cross-chain-rwa-architecture)
 - [RWA Settlement & Redemption (A Clear Guide)](https://www.quillaudits.com/blog/rwa/rwa-settlement-and-redemption)
 - [ERC-7943: Universal RWA Standard Explained](https://www.quillaudits.com/blog/rwa/erc-7943-explained)
 - [A Guide to Perpetual DEX Architecture & Security](https://www.quillaudits.com/blog/smart-contract/perp-dex-architecture-and-security)
