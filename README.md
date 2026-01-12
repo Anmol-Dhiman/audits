@@ -36,6 +36,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
+- [What is Hyperliquid and How Does it Work? (Explained)](https://www.quillaudits.com/blog/blockchain/what-is-hyperliquid)
 - [Cross-Chain RWA Architecture (Explained)](https://www.quillaudits.com/blog/rwa/cross-chain-rwa-architecture)
 - [RWA Settlement & Redemption (A Clear Guide)](https://www.quillaudits.com/blog/rwa/rwa-settlement-and-redemption)
 - [ERC-7943: Universal RWA Standard Explained](https://www.quillaudits.com/blog/rwa/erc-7943-explained)
