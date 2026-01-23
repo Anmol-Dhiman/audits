@@ -24,6 +24,8 @@
 - [RWA Handbook](https://www.quillaudits.com/research/rwa-development)
 
 ### Hack Reports
+
+- [Makina’s $4M Hack (Oracle Manipulation - Explained)](https://www.quillaudits.com/blog/hack-analysis/makina-4m-hack-explained)
 - [Truebit's $26M Hack (Math Overflow - Explained)](https://www.quillaudits.com/blog/hack-analysis/truebit-26m-hack-explained)
 - [Yearn's $9M Invariant Solver Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/yearn-9m-exploit)
 - [The Balancer Hack 2025 (Explained)](https://www.quillaudits.com/blog/hack-analysis/the-balancer-hack)
@@ -37,6 +39,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
+
 - [How Kinetiq Powers Liquid Staking on Hyperliquid?](https://www.quillaudits.com/blog/staking/kinetiq-liquid-staking-on-hyperliquid)
 - [What is Hyperliquid and How Does it Work? (Explained)](https://www.quillaudits.com/blog/blockchain/what-is-hyperliquid)
 - [Cross-Chain RWA Architecture (Explained)](https://www.quillaudits.com/blog/rwa/cross-chain-rwa-architecture)
