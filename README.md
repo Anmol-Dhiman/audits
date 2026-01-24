@@ -39,7 +39,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
-
+- [Top 10 RWA Attack Vectors Every Developer & Auditor Must Watch](https://www.quillaudits.com/blog/rwa/top-10-rwa-attack-vectors)
 - [How Kinetiq Powers Liquid Staking on Hyperliquid?](https://www.quillaudits.com/blog/staking/kinetiq-liquid-staking-on-hyperliquid)
 - [What is Hyperliquid and How Does it Work? (Explained)](https://www.quillaudits.com/blog/blockchain/what-is-hyperliquid)
 - [Cross-Chain RWA Architecture (Explained)](https://www.quillaudits.com/blog/rwa/cross-chain-rwa-architecture)
