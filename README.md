@@ -24,7 +24,7 @@
 - [RWA Handbook](https://www.quillaudits.com/research/rwa-development)
 
 ### Hack Reports
-
+- [Cross Curve $1.4M Implementation Bug [Explained]](https://www.quillaudits.com/blog/hack-analysis/cross-curve-exploit)
 - [Makina’s $4M Hack (Oracle Manipulation - Explained)](https://www.quillaudits.com/blog/hack-analysis/makina-4m-hack-explained)
 - [Truebit's $26M Hack (Math Overflow - Explained)](https://www.quillaudits.com/blog/hack-analysis/truebit-26m-hack-explained)
 - [Yearn's $9M Invariant Solver Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/yearn-9m-exploit)
