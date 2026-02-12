@@ -24,6 +24,7 @@
 - [RWA Handbook](https://www.quillaudits.com/research/rwa-development)
 
 ### Hack Reports
+
 - [Cross Curve $1.4M Implementation Bug [Explained]](https://www.quillaudits.com/blog/hack-analysis/cross-curve-exploit)
 - [Makina’s $4M Hack (Oracle Manipulation - Explained)](https://www.quillaudits.com/blog/hack-analysis/makina-4m-hack-explained)
 - [Truebit's $26M Hack (Math Overflow - Explained)](https://www.quillaudits.com/blog/hack-analysis/truebit-26m-hack-explained)
@@ -39,6 +40,8 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts
+
+- [QuillAudits First Version of Claude Skills Helps Identify Bugs in Smart Contracts](https://www.quillaudits.com/blog/ai-agents/first-version-claude-skills)
 - [Stop Auditing Base Like Ethereum: A DeFi Security Guide](https://www.quillaudits.com/blog/blockchain/stop-auditing-base-like-ethereum)
 - [Solana Prediction Markets: Hidden Security Tradeoffs of Speed](https://www.quillaudits.com/blog/prediction-market/solana-prediction-market)
 - [Top 10 RWA Attack Vectors Every Developer & Auditor Must Watch](https://www.quillaudits.com/blog/rwa/top-10-rwa-attack-vectors)
