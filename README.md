@@ -23,7 +23,11 @@
 - [Uniswap v4 Technical Deep Dive](https://www.quillaudits.com/research/uniswap-development)
 - [RWA Handbook](https://www.quillaudits.com/research/rwa-development)
 
-### Hack Reports
+### Reports
+
+- [Exploited Ledgers: The Web3 Hack Report 2025](https://www.quillaudits.com/reports/exploited-ledgers-web3-2025-hack-report)
+
+### Hack Analysis
 
 - [Cross Curve $1.4M Implementation Bug [Explained]](https://www.quillaudits.com/blog/hack-analysis/cross-curve-exploit)
 - [Makina’s $4M Hack (Oracle Manipulation - Explained)](https://www.quillaudits.com/blog/hack-analysis/makina-4m-hack-explained)
