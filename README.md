@@ -45,6 +45,7 @@
 
 ### Blog Posts
 
+- [How Intent-Based Lending Changes DeFi Risk?](https://www.quillaudits.com/blog/lending-borrowing/intent-based-lending-security-risks)
 - [QuillAudits First Version of Claude Skills Helps Identify Bugs in Smart Contracts](https://www.quillaudits.com/blog/ai-agents/first-version-claude-skills)
 - [Stop Auditing Base Like Ethereum: A DeFi Security Guide](https://www.quillaudits.com/blog/blockchain/stop-auditing-base-like-ethereum)
 - [Solana Prediction Markets: Hidden Security Tradeoffs of Speed](https://www.quillaudits.com/blog/prediction-market/solana-prediction-market)
