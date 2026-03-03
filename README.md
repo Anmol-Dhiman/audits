@@ -45,8 +45,9 @@
 - [How Odin.fun Lost 58.2 BTC in a $7M Liquidity Exploit](https://www.quillaudits.com/blog/hack-analysis/how-odinfun-lost-58-3BTC-to-worthless-liquidity)
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
-### Blog Posts
+### Blog Posts & Twitter Articles
 
+- [DeFi Is Still Bleeding: January & February 2026 Exploit Breakdown](https://x.com/QuillAudits_AI/status/2028797747617477101)
 - [How Intent-Based Lending Changes DeFi Risk?](https://www.quillaudits.com/blog/lending-borrowing/intent-based-lending-security-risks)
 - [QuillAudits First Version of Claude Skills Helps Identify Bugs in Smart Contracts](https://www.quillaudits.com/blog/ai-agents/first-version-claude-skills)
 - [Stop Auditing Base Like Ethereum: A DeFi Security Guide](https://www.quillaudits.com/blog/blockchain/stop-auditing-base-like-ethereum)
