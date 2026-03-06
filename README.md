@@ -29,6 +29,7 @@
 
 ### Hack Analysis
 
+- [Solv Protocol $2.5M Exploit: Double Mint Bug (Explained)](https://www.quillaudits.com/blog/hack-analysis/solv-protocol-exploit)
 - [FoomCash $1.6M Exploit (Faulty zk Verification - Explained)](https://www.quillaudits.com/blog/hack-analysis/foomcash-exploit-explained)
 - [YeildBlox $10M Hack (Oracle Manipulation - Explained)](https://www.quillaudits.com/blog/hack-analysis/yeildblox-10m-hack-explained)
 - [Cross Curve $1.4M Implementation Bug [Explained]](https://www.quillaudits.com/blog/hack-analysis/cross-curve-exploit)
