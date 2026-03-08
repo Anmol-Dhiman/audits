@@ -75,8 +75,9 @@
 - [Exploring Hooks and Driving Protocol Innovation](https://x.com/QuillAudits_AI/status/1966101920709235105)
 - [CRACCON Conf. Blockchain and Smart Contract Security](https://www.linkedin.com/posts/craccon_cybersecurity-infosec-web3-activity-7378715258124734464-OxdM)
 
-## Independent Blogs
+## Independent Blogs & Twitter Articles
 
+- [WTF Solidity IR Codegen](https://x.com/SherlockVarm/status/2030621011784372355)
 - [Elliptic Curve Digital Signature Algorithm](https://sherlockvarm.hashnode.dev/elliptic-curve-digital-signature-algorithm)
 - [EIP-7549: Move committee index outside Attestation](https://sherlockvarm.hashnode.dev/eip-7549-move-committee-index-outside-attestation)
 - [EIP-7840: Add blob schedule to EL config files](https://sherlockvarm.hashnode.dev/eip-7840-add-blob-schedule-to-el-config-files)
@@ -84,6 +85,7 @@
 - [EIP-7691: Blob throughput increase](https://sherlockvarm.hashnode.dev/eip-7691-blob-throughput-increase)
 - [EIP-7623: Increase calldata cost](https://sherlockvarm.hashnode.dev/eip-7623-increase-calldata-cost)
 - [EIP-2718: Typed Transaction Envelope](https://sherlockvarm.hashnode.dev/eip-2718-typed-transaction-envelope)
+
 
 ## Internship Reports
 
