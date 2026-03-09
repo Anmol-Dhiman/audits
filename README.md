@@ -40,6 +40,9 @@
 
 - [Exploited Ledgers: The Web3 Hack Report 2025](https://www.quillaudits.com/reports/exploited-ledgers-web3-2025-hack-report)
 
+### Security Checklists
+- [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
+
 ### Hack Analysis
 
 - [Solv Protocol $2.5M Exploit: Double Mint Bug (Explained)](https://www.quillaudits.com/blog/hack-analysis/solv-protocol-exploit)
