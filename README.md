@@ -92,6 +92,12 @@
 - [CRACCON Conf. Blockchain and Smart Contract Security](https://www.linkedin.com/posts/craccon_cybersecurity-infosec-web3-activity-7378715258124734464-OxdM)
 
 
+## Testimonials
+
+[@RektHQ](https://x.com/RektHQ)
+<br/>
+![rekthq](/testimonials/rekthq.png)
+
 
 ## Internship Reports
 
