@@ -19,6 +19,7 @@
 
 ## Independent Blogs & Twitter Articles
 
+- [WTF Rounding Errors](https://x.com/SherlockVarm/status/2031322973664432360)
 - [WTF Solidity IR Codegen](https://x.com/SherlockVarm/status/2030621011784372355)
 - [Elliptic Curve Digital Signature Algorithm](https://sherlockvarm.hashnode.dev/elliptic-curve-digital-signature-algorithm)
 - [EIP-7549: Move committee index outside Attestation](https://sherlockvarm.hashnode.dev/eip-7549-move-committee-index-outside-attestation)
@@ -64,6 +65,8 @@
 
 ### Blog Posts & Twitter Articles
 
+
+- [Autonomous AI in DeFi: The Security Framework We Need](https://www.quillaudits.com/blog/ai-agents/autonomous-ai-in-defi)
 - [DeFi Is Still Bleeding: January & February 2026 Exploit Breakdown](https://x.com/QuillAudits_AI/status/2028797747617477101)
 - [How Intent-Based Lending Changes DeFi Risk?](https://www.quillaudits.com/blog/lending-borrowing/intent-based-lending-security-risks)
 - [QuillAudits First Version of Claude Skills Helps Identify Bugs in Smart Contracts](https://www.quillaudits.com/blog/ai-agents/first-version-claude-skills)
