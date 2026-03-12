@@ -1,5 +1,7 @@
 # Anmol's Portfolio
 
+### [Resume](https://resume-anmol-dhiman.tiiny.site/)
+
 ## Profiles
 
 - [Code4rena](https://code4rena.com/@Sherlock__VARM)
