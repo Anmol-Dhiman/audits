@@ -21,8 +21,9 @@
 
 ## Independent Blogs & Twitter Articles
 
-- [WTF Rounding Errors](https://x.com/SherlockVarm/status/2031322973664432360)
-- [WTF Solidity IR Codegen](https://x.com/SherlockVarm/status/2030621011784372355)
+- [WTF Blockchain Re-Orgs?](https://x.com/SherlockVarm/status/2033169609415860722)
+- [WTF Rounding Errors?](https://x.com/SherlockVarm/status/2031322973664432360)
+- [WTF Solidity IR Codegen?](https://x.com/SherlockVarm/status/2030621011784372355)
 - [Elliptic Curve Digital Signature Algorithm](https://sherlockvarm.hashnode.dev/elliptic-curve-digital-signature-algorithm)
 - [EIP-7549: Move committee index outside Attestation](https://sherlockvarm.hashnode.dev/eip-7549-move-committee-index-outside-attestation)
 - [EIP-7840: Add blob schedule to EL config files](https://sherlockvarm.hashnode.dev/eip-7840-add-blob-schedule-to-el-config-files)
