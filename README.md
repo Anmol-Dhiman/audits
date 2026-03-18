@@ -69,7 +69,7 @@
 
 ### Blog Posts & Twitter Articles
 
-
+- [Hyperliquid Security: Beyond Orderbooks and Into Architecture](https://www.quillaudits.com/blog/blockchain/hyperliquid-security-beyond-orderbooks)
 - [Autonomous AI in DeFi: The Security Framework We Need](https://www.quillaudits.com/blog/ai-agents/autonomous-ai-in-defi)
 - [DeFi Is Still Bleeding: January & February 2026 Exploit Breakdown](https://x.com/QuillAudits_AI/status/2028797747617477101)
 - [How Intent-Based Lending Changes DeFi Risk?](https://www.quillaudits.com/blog/lending-borrowing/intent-based-lending-security-risks)
