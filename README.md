@@ -11,13 +11,12 @@
 
 ## Competitive audits
 
-| Contest                                                                         | Platform  | Category               | Findings                             |
-| ------------------------------------------------------------------------------- | --------- | ---------------------- | ------------------------------------ |
-| [Primev](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d) | Cantina   | Reward Management      | [1H](contests/2025-05-primev.md)     |
-| [THORWallet](https://code4rena.com/audits/2025-02-thorwallet)                   | Code4rena | Cross-chain token      | [1M](contests/2025-02-thorwallet.md) |
-| [Next Generation](https://code4rena.com/audits/2025-01-next-generation)         | Code4rena | Stablecoin             | [1M](contests/2025-02-next-gen.md)   |
-| [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord)              | CodeHawks | Token Staking, Auction | [1M](contests/2024-08-fjord.md)      |
-
+| Contest                                                                         | Platform  | Category               | Findings                             | Language |
+| ------------------------------------------------------------------------------- | --------- | ---------------------- | ------------------------------------ | -------- |
+| [Primev](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d) | Cantina   | Reward Management      | [1H](contests/2025-05-primev.md)     | Solidity |
+| [THORWallet](https://code4rena.com/audits/2025-02-thorwallet)                   | Code4rena | Cross-chain token      | [1M](contests/2025-02-thorwallet.md) | Solidity |
+| [Next Generation](https://code4rena.com/audits/2025-01-next-generation)         | Code4rena | Stablecoin             | [1M](contests/2025-02-next-gen.md)   | Solidity |
+| [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord)              | CodeHawks | Token Staking, Auction | [1M](contests/2024-08-fjord.md)      | Solidity |
 
 ## Independent Blogs & Twitter Articles
 
@@ -32,7 +31,6 @@
 - [EIP-7623: Increase calldata cost](https://sherlockvarm.hashnode.dev/eip-7623-increase-calldata-cost)
 - [EIP-2718: Typed Transaction Envelope](https://sherlockvarm.hashnode.dev/eip-2718-typed-transaction-envelope)
 
-
 ## Work at [QuillAudits](https://quillaudits.com/)
 
 ### Handbooks
@@ -45,6 +43,7 @@
 - [Exploited Ledgers: The Web3 Hack Report 2025](https://www.quillaudits.com/reports/exploited-ledgers-web3-2025-hack-report)
 
 ### Security Checklists
+
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
@@ -98,13 +97,11 @@
 - [Exploring Hooks and Driving Protocol Innovation](https://x.com/QuillAudits_AI/status/1966101920709235105)
 - [CRACCON Conf. Blockchain and Smart Contract Security](https://www.linkedin.com/posts/craccon_cybersecurity-infosec-web3-activity-7378715258124734464-OxdM)
 
-
 ## Testimonials
 
 [@RektHQ](https://x.com/RektHQ)
 <br/>
 ![rekthq](/testimonials/rekthq.png)
-
 
 ## Internship Reports
 
