@@ -67,7 +67,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts & Twitter Articles
-
+- [RWA Security Risks and Best Practices: Securing Tokenized Assets End-to-End](https://www.quillaudits.com/blog/rwa/rwa-security-risks-and-practices)
 - [Hyperliquid Security: Beyond Orderbooks and Into Architecture](https://www.quillaudits.com/blog/blockchain/hyperliquid-security-beyond-orderbooks)
 - [Autonomous AI in DeFi: The Security Framework We Need](https://www.quillaudits.com/blog/ai-agents/autonomous-ai-in-defi)
 - [DeFi Is Still Bleeding: January & February 2026 Exploit Breakdown](https://x.com/QuillAudits_AI/status/2028797747617477101)
