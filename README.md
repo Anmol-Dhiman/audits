@@ -92,8 +92,8 @@
 
 ## Talks
 
-- [Building & Operating Tokenized RWAs | Ft. Brickken, Tokinvest, Zoniqx, Zoth, Polygon](https://x.com/i/spaces/1ypKdqvoERqGW/peek)
-- [CEX vs DEX: Can On-Chain Preps Finally Compete](https://x.com/i/spaces/1lPKqvpqaDEGb/peek?s=20)
+- [Building & Operating Tokenized RWAs | Ft. Brickken, Tokinvest, Zoniqx, Zoth, Polygon](https://x.com/QuillAudits_AI/status/2001989472817467730)
+- [CEX vs DEX: Can On-Chain Preps Finally Compete](https://x.com/QuillAudits_AI/status/1993658496609665196)
 - [Exploring Hooks and Driving Protocol Innovation](https://x.com/QuillAudits_AI/status/1966101920709235105)
 - [CRACCON Conf. Blockchain and Smart Contract Security](https://www.linkedin.com/posts/craccon_cybersecurity-infosec-web3-activity-7378715258124734464-OxdM)
 
