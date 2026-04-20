@@ -47,6 +47,7 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
+- [KelpDAO rsETH $292M Bridge Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/kelp-dao-hack)
 - [Drift Protocol $285M Multisig Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/drift-protocol-multisig-exploit)
 - [Resolv Labs $25M Exploit: Unchecked Mint (Explained)](https://www.quillaudits.com/blog/hack-analysis/resolv-labs-exploit-explained)
 - [Venus Protocol $5M Exploit: Price Manipulation (Explained)](https://www.quillaudits.com/blog/hack-analysis/venus-5m-exploit)
