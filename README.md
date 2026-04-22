@@ -69,6 +69,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts & Twitter Articles
+- [North Korea Stole $7.5 Billion From Crypto. Here's Their Playbook.](https://www.quillaudits.com/blog/web3-security/north-korea-stole-billions)
 - [The Admin Audit Checklist](https://x.com/QuillAudits_AI/status/2044038742441402817)
 - [Multiple Audits ≠ Multilayer Security. Stop Paying for 3 Audits](https://www.quillaudits.com/blog/web3-security/multi-layer-audit)
 - [$160M+ Lost to DeFi Exploits in Q1 2026: AI Hacks, Inside Jobs, or Systemic Failure?](https://x.com/QuillAudits_AI/status/2038990923322032277)
