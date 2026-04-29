@@ -47,6 +47,7 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
+
 - [Rhea Finance $18.4M Slippage Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/rhea-finance-hack)
 - [KelpDAO rsETH $292M Bridge Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/kelp-dao-hack)
 - [Drift Protocol $285M Multisig Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/drift-protocol-multisig-exploit)
@@ -70,6 +71,8 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts & Twitter Articles
+
+- [Dear Founders: Your Deployer Wallet Is a 0-Day Vulnerability](https://www.quillaudits.com/blog/web3-security/deployer-wallet-security-attack-vectors)
 - [North Korea Stole $7.5 Billion From Crypto. Here's Their Playbook.](https://www.quillaudits.com/blog/web3-security/north-korea-stole-billions)
 - [The Admin Audit Checklist](https://x.com/QuillAudits_AI/status/2044038742441402817)
 - [Multiple Audits ≠ Multilayer Security. Stop Paying for 3 Audits](https://www.quillaudits.com/blog/web3-security/multi-layer-audit)
