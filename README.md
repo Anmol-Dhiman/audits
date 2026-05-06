@@ -72,6 +72,7 @@
 
 ### Blog Posts & Twitter Articles
 
+- [$635 Million Stolen in April 2026. The Worst Month in Crypto History.](https://x.com/QuillAudits_AI/status/2050211503106912696)
 - [Dear Founders: Your Deployer Wallet Is a 0-Day Vulnerability](https://www.quillaudits.com/blog/web3-security/deployer-wallet-security-attack-vectors)
 - [North Korea Stole $7.5 Billion From Crypto. Here's Their Playbook.](https://www.quillaudits.com/blog/web3-security/north-korea-stole-billions)
 - [The Admin Audit Checklist](https://x.com/QuillAudits_AI/status/2044038742441402817)
