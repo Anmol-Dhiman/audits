@@ -47,7 +47,7 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
-
+- [TrustedVolumes $5.87M RFQ Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/trustedvolumes-rfq-hack)
 - [Rhea Finance $18.4M Slippage Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/rhea-finance-hack)
 - [KelpDAO rsETH $292M Bridge Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/kelp-dao-hack)
 - [Drift Protocol $285M Multisig Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/drift-protocol-multisig-exploit)
@@ -72,6 +72,8 @@
 
 ### Blog Posts & Twitter Articles
 
+- [Six Crypto Neobanks Raised $200M in 90 Days. None Have a CISO.](https://www.quillaudits.com/blog/web3-security/neobanks-ciso-problem)
+- [Security First: A Founder’s Guide to Building Secure Crypto Protocols 2026](https://www.quillaudits.com/blog/web3-security/how-to-secure-crypto-protocol-2026)
 - [You're Monitoring Your Contracts. But Who's Watching Your Servers?](https://www.quillaudits.com/blog/web3-security/watching-your-servers)
 - [$635 Million Stolen in April 2026. The Worst Month in Crypto History.](https://x.com/QuillAudits_AI/status/2050211503106912696)
 - [Dear Founders: Your Deployer Wallet Is a 0-Day Vulnerability](https://www.quillaudits.com/blog/web3-security/deployer-wallet-security-attack-vectors)
