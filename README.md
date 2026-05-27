@@ -47,6 +47,7 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
+- [THORChain $10.7M GG20 TSS Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/thorchain-gg20-hack)
 - [TrustedVolumes $5.87M RFQ Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/trustedvolumes-rfq-hack)
 - [Rhea Finance $18.4M Slippage Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/rhea-finance-hack)
 - [KelpDAO rsETH $292M Bridge Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/kelp-dao-hack)
