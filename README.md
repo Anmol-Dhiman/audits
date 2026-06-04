@@ -47,6 +47,9 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
+
+- [Gravity Bridge $5.4M Denom Mapping Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/gravity-bridge-demon-mapping-poisoning)
+- [New Market Trading $3.78M SquidRouterModule Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/new-market-trading-exploit)
 - [THORChain $10.7M GG20 TSS Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/thorchain-gg20-hack)
 - [TrustedVolumes $5.87M RFQ Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/trustedvolumes-rfq-hack)
 - [Rhea Finance $18.4M Slippage Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/rhea-finance-hack)
@@ -73,6 +76,8 @@
 
 ### Blog Posts & Twitter Articles
 
+- [Auditing software when the software has a brain.](https://www.quillaudits.com/blog/ai-agents/auditing-ai-agents)
+- [What I would build if I were launching a stablecoin in the next 60 days.](https://www.quillaudits.com/blog/web3-security/building-stablecoin-60-days)
 - [Six Crypto Neobanks Raised $200M in 90 Days. None Have a CISO.](https://www.quillaudits.com/blog/web3-security/neobanks-ciso-problem)
 - [Security First: A Founder’s Guide to Building Secure Crypto Protocols 2026](https://www.quillaudits.com/blog/web3-security/how-to-secure-crypto-protocol-2026)
 - [You're Monitoring Your Contracts. But Who's Watching Your Servers?](https://www.quillaudits.com/blog/web3-security/watching-your-servers)
