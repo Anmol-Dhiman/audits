@@ -76,6 +76,7 @@
 
 ### Blog Posts & Twitter Articles
 
+- [Zcash Orchard Bug and Formal Verification](https://www.quillaudits.com/blog/blockchain/zcash-bug-and-formal-verification)
 - [The Neobank Stack: 11 attack surfaces card issuing crypto fintechs ignore.](https://www.quillaudits.com/blog/web3-security/neobanks-attack-vectors)
 - [Auditing software when the software has a brain.](https://www.quillaudits.com/blog/ai-agents/auditing-ai-agents)
 - [What I would build if I were launching a stablecoin in the next 60 days.](https://www.quillaudits.com/blog/web3-security/building-stablecoin-60-days)
