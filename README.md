@@ -47,7 +47,8 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
-
+- [Taiko Bridge $1.7M Leaked SGX Enclave Key Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/taiko-leaked-sgx-enclave-key)
+- [Humanity Protocol $36M Admin Key Compromise Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/humanity-protocol-admin-key-compromise)
 - [Gravity Bridge $5.4M Denom Mapping Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/gravity-bridge-demon-mapping-poisoning)
 - [New Market Trading $3.78M SquidRouterModule Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/new-market-trading-exploit)
 - [THORChain $10.7M GG20 TSS Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/thorchain-gg20-hack)
@@ -75,7 +76,8 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts & Twitter Articles
-
+- [A Founder's Guide to Tokenizing Money Market Funds and Private Credit](https://www.quillaudits.com/blog/rwa/tokenizing-money-market-and-private-credit)
+- [The Security Gaps Killing Tokenized Money Market Funds and Private Credit](https://www.quillaudits.com/blog/rwa/tokenized-rwa-security-risks)
 - [Zcash Orchard Bug and Formal Verification](https://www.quillaudits.com/blog/blockchain/zcash-bug-and-formal-verification)
 - [The Neobank Stack: 11 attack surfaces card issuing crypto fintechs ignore.](https://www.quillaudits.com/blog/web3-security/neobanks-attack-vectors)
 - [Auditing software when the software has a brain.](https://www.quillaudits.com/blog/ai-agents/auditing-ai-agents)
