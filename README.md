@@ -47,6 +47,8 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
+- [BonkDAO $21.2M Governance Takeover Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/bonk-dao-governance-takeover-exploit)
+- [Summer Protocol $6.04M Capped-Ark NAV Donation Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/summer-protocol-donation-attack)
 - [Taiko Bridge $1.7M Leaked SGX Enclave Key Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/taiko-leaked-sgx-enclave-key)
 - [Humanity Protocol $36M Admin Key Compromise Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/humanity-protocol-admin-key-compromise)
 - [Gravity Bridge $5.4M Denom Mapping Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/gravity-bridge-demon-mapping-poisoning)
@@ -76,6 +78,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts & Twitter Articles
+- [What Securitize's Tokenized Stock Launch Really Reveals](https://www.quillaudits.com/blog/rwa/securitize-tokenized-stock-launch)
 - [A Founder's Guide to Tokenizing Money Market Funds and Private Credit](https://www.quillaudits.com/blog/rwa/tokenizing-money-market-and-private-credit)
 - [The Security Gaps Killing Tokenized Money Market Funds and Private Credit](https://www.quillaudits.com/blog/rwa/tokenized-rwa-security-risks)
 - [Zcash Orchard Bug and Formal Verification](https://www.quillaudits.com/blog/blockchain/zcash-bug-and-formal-verification)
