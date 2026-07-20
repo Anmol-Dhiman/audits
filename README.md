@@ -47,6 +47,7 @@
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
+- [Bonzo Finance $9.05M Oracle Verifier Zero-Signature Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/bonzo-fiance-zero-signature-exploit)
 - [BonkDAO $21.2M Governance Takeover Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/bonk-dao-governance-takeover-exploit)
 - [Summer Protocol $6.04M Capped-Ark NAV Donation Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/summer-protocol-donation-attack)
 - [Taiko Bridge $1.7M Leaked SGX Enclave Key Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/taiko-leaked-sgx-enclave-key)
