@@ -80,6 +80,7 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts & Twitter Articles
+- [Robinhood Chain Security Risks and Attack Vectors Explained](https://www.quillaudits.com/blog/blockchain/robinhood-chain-security-risks-attack-vectors)
 - [What Securitize's Tokenized Stock Launch Really Reveals](https://www.quillaudits.com/blog/rwa/securitize-tokenized-stock-launch)
 - [A Founder's Guide to Tokenizing Money Market Funds and Private Credit](https://www.quillaudits.com/blog/rwa/tokenizing-money-market-and-private-credit)
 - [The Security Gaps Killing Tokenized Money Market Funds and Private Credit](https://www.quillaudits.com/blog/rwa/tokenized-rwa-security-risks)
