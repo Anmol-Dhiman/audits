@@ -39,14 +39,21 @@
 - [RWA Handbook](https://www.quillaudits.com/research/rwa-development)
 
 ### Reports
-
+- [Quill Ledger: H1 2026 DeFi Security Report](https://www.quillaudits.com/reports/quill-ledger-h1-2026-defi-security-report)
 - [Exploited Ledgers: The Web3 Hack Report 2025](https://www.quillaudits.com/reports/exploited-ledgers-web3-2025-hack-report)
 
 ### Security Checklists
-
+- [ERC-3643 (T-REX) Security Audit Checklist](https://www.quillaudits.com/research/erc-3643-audit-checklist)
+- [ERC-4626 Vault Security Audit Checklist](https://www.quillaudits.com/research/erc-4626-audit-checklist)
+- [ERC-7518 (DyCIST) Security Audit Checklist](https://www.quillaudits.com/research/erc-7518-audit-checklist)
 - [Solana Program Security Audit Checklist](https://www.quillaudits.com/security-hub/solana-audit-checklist)
 
 ### Hack Analysis
+- [Notional Finance $1.73M Free Collateral Integer Overflow Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/notional-finance-integer-overflow-exploit)
+- [MAYAChain $1.7M Slash Subsidy Pool Inflation Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/mayachain-slash-subsidy-exploit)
+- [Term Labs $8.5M Governance Takeover Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/term-labs-governance-takeover-exploit)
+- [Moonwell $8.7M mMAMO Exchange Rate Inflation Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/moonwell-donation-exploit)
+- [Harmony $3.2M Cross-Shard Receipt Replay Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/harmony-receipt-replay-exploit)
 - [Ostium $23.75M Price Report Signer Compromise Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/ostium-price-report-signer-compromise)
 - [Bonzo Finance $9.05M Oracle Verifier Zero-Signature Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/bonzo-fiance-zero-signature-exploit)
 - [BonkDAO $21.2M Governance Takeover Exploit (Explained)](https://www.quillaudits.com/blog/hack-analysis/bonk-dao-governance-takeover-exploit)
@@ -80,6 +87,8 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Blog Posts & Twitter Articles
+- [Coinbase's oracle freezes on weekends. Your risk doesn't.](https://www.quillaudits.com/blog/rwa/coinbase-chainlink-oracle-risk)
+- [Someone Else Controls the Neobank Dollars](https://www.quillaudits.com/blog/rwa/neobank-stablecoin-freeze-keys)
 - [Robinhood Chain Security Risks and Attack Vectors Explained](https://www.quillaudits.com/blog/blockchain/robinhood-chain-security-risks-attack-vectors)
 - [What Securitize's Tokenized Stock Launch Really Reveals](https://www.quillaudits.com/blog/rwa/securitize-tokenized-stock-launch)
 - [A Founder's Guide to Tokenizing Money Market Funds and Private Credit](https://www.quillaudits.com/blog/rwa/tokenizing-money-market-and-private-credit)
