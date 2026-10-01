@@ -86,7 +86,15 @@
 - [How Odin.fun Lost 58.2 BTC in a $7M Liquidity Exploit](https://www.quillaudits.com/blog/hack-analysis/how-odinfun-lost-58-3BTC-to-worthless-liquidity)
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
+### Quill Findings
+- [Quill Findings: APY Miscalculation in Staking Rewards](https://www.quillaudits.com/blog/auditing/staking-apy-miscalculation)
+- [Quill Findings: Missing Access Control in Tokenized Real Estate](https://www.quillaudits.com/blog/auditing/missing-access-control)
+- [Quill Findings: Eligibility Replay in Tokenized Assets](https://www.quillaudits.com/blog/auditing/eligibility-replay-tokenized-assets)
+
 ### Blog Posts & Twitter Articles
+- [What It Takes to Secure Tokenized Assets in Dubai](https://www.quillaudits.com/blog/web3-security/dubai-tokenization-security)
+- [Ethereum Assumptions That Break on Arc Mainnet](https://www.quillaudits.com/blog/web3-security/arc-usdc-traps)
+- [VARA's Compliance and Security Requirements for Tokenization](https://www.quillaudits.com/blog/rwa/vara-compliance-security-requirements)
 - [Coinbase's oracle freezes on weekends. Your risk doesn't.](https://www.quillaudits.com/blog/rwa/coinbase-chainlink-oracle-risk)
 - [Someone Else Controls the Neobank Dollars](https://www.quillaudits.com/blog/rwa/neobank-stablecoin-freeze-keys)
 - [Robinhood Chain Security Risks and Attack Vectors Explained](https://www.quillaudits.com/blog/blockchain/robinhood-chain-security-risks-attack-vectors)
