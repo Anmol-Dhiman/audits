@@ -87,11 +87,17 @@
 - [CrediX Finance Faces 4.5M Exploit (Exit Scam Analysis)](https://www.quillaudits.com/blog/hack-analysis/credix-finance-4.5m-exploit)
 
 ### Quill Findings
+- [Quill Findings: Race Condition in LP Fee Splits](https://www.quillaudits.com/blog/auditing/lp-fee-race-condition)
+- [Quill Findings: APY Miscalculation in Staking Rewards](https://www.quillaudits.com/blog/auditing/staking-apy-miscalculation)
+- [Quill Findings: Forcing Recovery Through Uniswap Unlock](https://www.quillaudits.com/blog/auditing/uniswap-unlock-force-recovery)
+- [Quill Findings: Token Creators Can Drain Early Buyers](https://www.quillaudits.com/blog/auditing/bonding-curve-creator-dump)
 - [Quill Findings: APY Miscalculation in Staking Rewards](https://www.quillaudits.com/blog/auditing/staking-apy-miscalculation)
 - [Quill Findings: Missing Access Control in Tokenized Real Estate](https://www.quillaudits.com/blog/auditing/missing-access-control)
 - [Quill Findings: Eligibility Replay in Tokenized Assets](https://www.quillaudits.com/blog/auditing/eligibility-replay-tokenized-assets)
 
 ### Blog Posts & Twitter Articles
+- [$50M+ Lost in RWA Perps With Zero Contract Bugs](https://www.quillaudits.com/blog/rwa/rwa-perps-exploits)
+- [Security Risk In Dubai Tokenized Asset Borrowing Markets](https://www.quillaudits.com/blog/rwa/dubai-tokenized-borrowing-risk)
 - [What It Takes to Secure Tokenized Assets in Dubai](https://www.quillaudits.com/blog/web3-security/dubai-tokenization-security)
 - [Ethereum Assumptions That Break on Arc Mainnet](https://www.quillaudits.com/blog/web3-security/arc-usdc-traps)
 - [VARA's Compliance and Security Requirements for Tokenization](https://www.quillaudits.com/blog/rwa/vara-compliance-security-requirements)
