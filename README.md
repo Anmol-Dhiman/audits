@@ -145,6 +145,7 @@
 
 ## Talks
 
+- [Tokenisation Goes Mainstream](https://x.com/QuillAudits_AI/status/2115510968822468778)
 - [Building & Operating Tokenized RWAs | Ft. Brickken, Tokinvest, Zoniqx, Zoth, Polygon](https://x.com/QuillAudits_AI/status/2001989472817467730)
 - [CEX vs DEX: Can On-Chain Preps Finally Compete](https://x.com/QuillAudits_AI/status/1993658496609665196)
 - [Exploring Hooks and Driving Protocol Innovation](https://x.com/QuillAudits_AI/status/1966101920709235105)
